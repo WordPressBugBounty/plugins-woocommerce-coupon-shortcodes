@@ -1,0 +1,1 @@
+# plugins-woocommerce-coupon-shortcodes
